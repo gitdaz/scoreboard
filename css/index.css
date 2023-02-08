@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background-color: #05cf8f;
+}
+
+.container {
+  margin: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+.container h3 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+}
+.container h2 {
+  font-family: "Press Start 2P", cursive;
+  text-align: center;
+  color: white;
+  font-size: 80px;
+  background-color: rgba(8, 68, 49, 0.7);
+  border-radius: 5px;
+  padding: 8px;
+  margin-left: -25px;
+  width: 120%;
+}
+.container button {
+  background-color: #05cf8f;
+  border-color: #084431;
+  color: #084431;
+  border-radius: 2px;
+  font-family: "Press Start 2P", cursive;
+  font-size: 15px;
+  padding: 4px;
+}/*# sourceMappingURL=index.css.map */
